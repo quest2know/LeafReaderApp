@@ -1,4 +1,5 @@
-# PDF Reader (Android)
+# LeafReaderApp
+An android app that works with pdfs. no ads or permissions needed.
 
 A minimal, native PDF reader built with Kotlin + Jetpack Compose. It uses
 Android's built-in `PdfRenderer` API, so there are **no third-party PDF
